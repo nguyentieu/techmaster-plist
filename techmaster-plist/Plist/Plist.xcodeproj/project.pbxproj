@@ -12,6 +12,18 @@
 		B682F0E31FA71EB00017EF17 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B682F0E11FA71EB00017EF17 /* Main.storyboard */; };
 		B682F0E51FA71EB00017EF17 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B682F0E41FA71EB00017EF17 /* Assets.xcassets */; };
 		B682F0E81FA71EB00017EF17 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B682F0E61FA71EB00017EF17 /* LaunchScreen.storyboard */; };
+		B682F0F01FA721530017EF17 /* UserData.plist in Resources */ = {isa = PBXBuildFile; fileRef = B682F0EF1FA721530017EF17 /* UserData.plist */; };
+		B682F0F31FA7270C0017EF17 /* UserProfileCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B682F0F11FA7270C0017EF17 /* UserProfileCell.swift */; };
+		B682F0F41FA7270C0017EF17 /* UserProfileCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B682F0F21FA7270C0017EF17 /* UserProfileCell.xib */; };
+		B682F1021FA7330B0017EF17 /* Erik.png in Resources */ = {isa = PBXBuildFile; fileRef = B682F0F91FA7330B0017EF17 /* Erik.png */; };
+		B682F1031FA7330B0017EF17 /* Frank.png in Resources */ = {isa = PBXBuildFile; fileRef = B682F0FA1FA7330B0017EF17 /* Frank.png */; };
+		B682F1041FA7330B0017EF17 /* Jasmine.png in Resources */ = {isa = PBXBuildFile; fileRef = B682F0FB1FA7330B0017EF17 /* Jasmine.png */; };
+		B682F1051FA7330B0017EF17 /* Lucas.png in Resources */ = {isa = PBXBuildFile; fileRef = B682F0FC1FA7330B0017EF17 /* Lucas.png */; };
+		B682F1061FA7330B0017EF17 /* Lucio.png in Resources */ = {isa = PBXBuildFile; fileRef = B682F0FD1FA7330B0017EF17 /* Lucio.png */; };
+		B682F1071FA7330B0017EF17 /* Luna.png in Resources */ = {isa = PBXBuildFile; fileRef = B682F0FE1FA7330B0017EF17 /* Luna.png */; };
+		B682F1081FA7330B0017EF17 /* Ray.png in Resources */ = {isa = PBXBuildFile; fileRef = B682F0FF1FA7330B0017EF17 /* Ray.png */; };
+		B682F1091FA7330B0017EF17 /* Tea.png in Resources */ = {isa = PBXBuildFile; fileRef = B682F1001FA7330B0017EF17 /* Tea.png */; };
+		B682F10A1FA7330B0017EF17 /* TH.png in Resources */ = {isa = PBXBuildFile; fileRef = B682F1011FA7330B0017EF17 /* TH.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +34,18 @@
 		B682F0E41FA71EB00017EF17 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B682F0E71FA71EB00017EF17 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B682F0E91FA71EB00017EF17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B682F0EF1FA721530017EF17 /* UserData.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = UserData.plist; sourceTree = "<group>"; };
+		B682F0F11FA7270C0017EF17 /* UserProfileCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfileCell.swift; sourceTree = "<group>"; };
+		B682F0F21FA7270C0017EF17 /* UserProfileCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UserProfileCell.xib; sourceTree = "<group>"; };
+		B682F0F91FA7330B0017EF17 /* Erik.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Erik.png; sourceTree = "<group>"; };
+		B682F0FA1FA7330B0017EF17 /* Frank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Frank.png; sourceTree = "<group>"; };
+		B682F0FB1FA7330B0017EF17 /* Jasmine.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Jasmine.png; sourceTree = "<group>"; };
+		B682F0FC1FA7330B0017EF17 /* Lucas.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Lucas.png; sourceTree = "<group>"; };
+		B682F0FD1FA7330B0017EF17 /* Lucio.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Lucio.png; sourceTree = "<group>"; };
+		B682F0FE1FA7330B0017EF17 /* Luna.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Luna.png; sourceTree = "<group>"; };
+		B682F0FF1FA7330B0017EF17 /* Ray.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Ray.png; sourceTree = "<group>"; };
+		B682F1001FA7330B0017EF17 /* Tea.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Tea.png; sourceTree = "<group>"; };
+		B682F1011FA7330B0017EF17 /* TH.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = TH.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +78,34 @@
 		B682F0DC1FA71EB00017EF17 /* Plist */ = {
 			isa = PBXGroup;
 			children = (
+				B682F0F81FA7330B0017EF17 /* Data */,
 				B682F0DD1FA71EB00017EF17 /* AppDelegate.swift */,
 				B682F0DF1FA71EB00017EF17 /* ViewController.swift */,
 				B682F0E11FA71EB00017EF17 /* Main.storyboard */,
+				B682F0F11FA7270C0017EF17 /* UserProfileCell.swift */,
+				B682F0F21FA7270C0017EF17 /* UserProfileCell.xib */,
 				B682F0E41FA71EB00017EF17 /* Assets.xcassets */,
 				B682F0E61FA71EB00017EF17 /* LaunchScreen.storyboard */,
 				B682F0E91FA71EB00017EF17 /* Info.plist */,
+				B682F0EF1FA721530017EF17 /* UserData.plist */,
 			);
 			path = Plist;
+			sourceTree = "<group>";
+		};
+		B682F0F81FA7330B0017EF17 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				B682F0F91FA7330B0017EF17 /* Erik.png */,
+				B682F0FA1FA7330B0017EF17 /* Frank.png */,
+				B682F0FB1FA7330B0017EF17 /* Jasmine.png */,
+				B682F0FC1FA7330B0017EF17 /* Lucas.png */,
+				B682F0FD1FA7330B0017EF17 /* Lucio.png */,
+				B682F0FE1FA7330B0017EF17 /* Luna.png */,
+				B682F0FF1FA7330B0017EF17 /* Ray.png */,
+				B682F1001FA7330B0017EF17 /* Tea.png */,
+				B682F1011FA7330B0017EF17 /* TH.png */,
+			);
+			path = Data;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -123,9 +167,20 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B682F1021FA7330B0017EF17 /* Erik.png in Resources */,
 				B682F0E81FA71EB00017EF17 /* LaunchScreen.storyboard in Resources */,
+				B682F1051FA7330B0017EF17 /* Lucas.png in Resources */,
+				B682F0F01FA721530017EF17 /* UserData.plist in Resources */,
+				B682F1091FA7330B0017EF17 /* Tea.png in Resources */,
+				B682F1071FA7330B0017EF17 /* Luna.png in Resources */,
 				B682F0E51FA71EB00017EF17 /* Assets.xcassets in Resources */,
+				B682F1081FA7330B0017EF17 /* Ray.png in Resources */,
+				B682F1031FA7330B0017EF17 /* Frank.png in Resources */,
+				B682F1061FA7330B0017EF17 /* Lucio.png in Resources */,
+				B682F1041FA7330B0017EF17 /* Jasmine.png in Resources */,
 				B682F0E31FA71EB00017EF17 /* Main.storyboard in Resources */,
+				B682F0F41FA7270C0017EF17 /* UserProfileCell.xib in Resources */,
+				B682F10A1FA7330B0017EF17 /* TH.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,6 +192,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B682F0E01FA71EB00017EF17 /* ViewController.swift in Sources */,
+				B682F0F31FA7270C0017EF17 /* UserProfileCell.swift in Sources */,
 				B682F0DE1FA71EB00017EF17 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -278,7 +334,7 @@
 				INFOPLIST_FILE = Plist/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com..Plist;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Plist;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -293,7 +349,7 @@
 				INFOPLIST_FILE = Plist/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com..Plist;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Plist;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 4.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
